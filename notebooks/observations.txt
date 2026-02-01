@@ -1,0 +1,13 @@
+HOUSE PRICE PRIDICTION
+
+// Corelation cofficients
+-> The one with strong postive relation with price are:
+
+sqft_living	    0.70	Strong positive
+grade	        0.67	Strong positive
+sqft_above	    0.61	Strong positive
+bathrooms	    0.53	Moderate positive
+
+waterfront → waterfront homes are noticeably more expensive
+grade → price rises substantially with higher grades
+location → has a effect on price but arguably small
