@@ -11,3 +11,33 @@ bathrooms	    0.53	Moderate positive
 waterfront → waterfront homes are noticeably more expensive
 grade → price rises substantially with higher grades
 location → has a effect on price but arguably small
+
+Baseline Model: Linear Regression
+
+R² score = 0.693
+Mean Absolute Error ≈ $125,390
+Root Mean Square Error ≈ $199,863
+
+Biggest positive effects
+Feature	        Coefficient	    Interpretation
+grade	        +$115,577	    Strongest positive relationship
+lat	            +$81,963	    Location has a meaningful effect
+sqft_living	    +$81,431	    Larger living area → higher predicted price
+sqft_above	    +$75,255	    More above-ground space → higher price
+waterfront	    +$50,488	    Waterfront properties tend to be more expensive
+
+Biggest negative effects
+Feature	        Coefficient
+yr_built	    −$78,648
+bedrooms	    −$34,885
+zipcode	        −$30,145
+long	        −$29,491
+
+
+Model : Random Forest
+
+R²: 0.88
+MAE: $67,289
+RMSE: $124,891
+
+As compared to linear Regression huge improvement
