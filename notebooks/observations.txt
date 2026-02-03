@@ -51,3 +51,8 @@ lat              16%
 
 Those three groups alone account for roughly 82% of the
 Random Forest's feature .
+
+Final Verdict:
+
+Random Forest with r2 = 0.86 seems to be a decent choice for the
+final model.
