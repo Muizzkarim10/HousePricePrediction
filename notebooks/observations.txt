@@ -41,3 +41,13 @@ MAE: $67,289
 RMSE: $124,891
 
 As compared to linear Regression huge improvement
+After using RandomizedSearch with tunned hyper parameters the performance
+changes were minor to none.
+The model heavily relies on
+
+grade            30%
+sqft_living      28%
+lat              16%
+
+Those three groups alone account for roughly 82% of the
+Random Forest's feature .
