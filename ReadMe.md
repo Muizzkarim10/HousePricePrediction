@@ -248,8 +248,4 @@ The application will open in your browser.
 
 ## 👨‍💻 Author
 
-**Muizz Karim**
-
-AI Developer & Machine Learning Engineer
-
-GitHub: [Muizzkarim10](https://github.com/Muizzkarim10) 
+**Muizz Karim** | GitHub: [Muizzkarim10](https://github.com/Muizzkarim10) 
