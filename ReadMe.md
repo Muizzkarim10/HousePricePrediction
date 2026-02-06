@@ -252,4 +252,4 @@ The application will open in your browser.
 
 AI Developer & Machine Learning Engineer
 
-GitHub: [Muizzkarim10](https://github.com/Muizzkarim10)
+GitHub: [Muizzkarim10](https://github.com/Muizzkarim10) 
